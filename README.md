@@ -1,5 +1,5 @@
 # Face-Recognition-Model-with-Gender-Age-and-Emotions-Estimations
-Capstone Project by [Karthik Reddy](https://github.com/KarthikReddy-Jinna)
+Project by [Karthik Reddy](https://github.com/KarthikReddy-Jinna)
 
 ## Table of Contents
 + [About](#about)
